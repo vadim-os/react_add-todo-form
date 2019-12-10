@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,kBACF,CAEA,OACE,oBAAqB,CAErB,SAAU,CACV,eACF","file":"main.4b5f8f8f.chunk.css","sourcesContent":[".App {\n  text-align: justify;\n}\n\n.error {\n  display: inline-block;\n  /* width: 130px; */\n  color: red;\n  font-weight: bold;\n}\n"]}
